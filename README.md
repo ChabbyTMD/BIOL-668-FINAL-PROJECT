@@ -1,5 +1,7 @@
 # BIOL-668-FINAL-PROJECT
 Option 2.
+
+> NOTE: For best compatibility it is advised that this notebook is ran in Google Colab.
 ---
 For this project I shall be analyzing signatures of selection in genome wide selection scans of *Anopheles gambiae* phased haplotype data to find genes that are associated with insecticide resistance. 
 
