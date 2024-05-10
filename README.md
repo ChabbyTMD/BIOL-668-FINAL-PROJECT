@@ -1,4 +1,5 @@
 # BIOL-668-FINAL-PROJECT
+## TOPIC: Detection of Signals of Selection in *Anopheles gambiae* mosquitoes in Eastern Uganda
 Option 2.
 
 > NOTE: For best compatibility it is advised that this notebook is ran in Google Colab.
